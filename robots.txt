@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modd1e.github.io/sitemap.xml
